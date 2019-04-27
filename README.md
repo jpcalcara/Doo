@@ -1,2 +1,2 @@
 # Doo
-Trabajo practico
+Calculadora en JAVA aplicando patrones de diseño.
